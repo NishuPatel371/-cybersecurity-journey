@@ -1,2 +1,43 @@
-# -cybersecurity-journey
-My path from zero to Cybersecurity Engineer
+# 🔐 My Cybersecurity Journey
+
+**Goal:** Cybersecurity Engineer in Germany/EU  
+**Started:** June 2026  
+**Current Phase:** Phase 0 — Building the foundation  
+
+---
+
+## 📍 Where I am right now
+- Operating System: Windows 11 + Ubuntu (VirtualBox)
+- Experience: Absolute beginner — Day 2
+- Daily study time: 2 hours
+
+---
+
+## ✅ Progress Log
+
+### Week 1
+- ✅ Installed VirtualBox on Windows
+- ✅ Installed Ubuntu 24.04 as virtual machine
+- ✅ Created GitHub portfolio
+- 🔄 Learning Linux terminal commands
+
+---
+
+## 🛠️ Tools Installed
+- VirtualBox
+- Ubuntu 24.04
+
+---
+
+## 📜 Certifications
+*None yet — working toward CompTIA Network+*
+
+---
+
+## 📅 Roadmap
+| Phase | Focus | Timeline |
+|-------|-------|----------|
+| Phase 0 | Linux, Python, Internet basics | Months 1-2 |
+| Phase 1 | Networking deep dive | Months 3-9 |
+| Phase 2 | Core security skills | Year 1-2 |
+| Phase 3 | Specialise + get hired | Year 2-3 |
