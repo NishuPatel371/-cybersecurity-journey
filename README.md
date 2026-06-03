@@ -50,3 +50,11 @@
   - mkdir = create a folder
   - rm -rf = delete a folder permanently
 - ✅ Passed first quiz (3/3) from memory
+
+- ✅ Day 3 - Learned 4 more Linux terminal commands
+  - cat = read a file
+  - touch = create an empty file
+  - echo "text" > file = write text into a file
+  - grep "word" file = search for a word inside a file
+- ✅ Passed quiz (3/3) - always include filename with cat and grep
+- ✅ Debugged German keyboard layout issue independently
