@@ -58,3 +58,13 @@
   - grep "word" file = search for a word inside a file
 - ✅ Passed quiz (3/3) - always include filename with cat and grep
 - ✅ Debugged German keyboard layout issue independently
+
+- ✅ Day 4 - Learned file permissions
+  - ls -l = see permissions in detail
+  - chmod 700 = private folder (owner only)
+  - chmod 755 = standard folder permissions
+  - chmod 600 = owner read/write only
+  - Permissions = 3 groups: owner / group / everyone
+  - r=4, w=2, x=1 — add them for chmod numbers
+- ✅ Learned why "Permission denied" happens
+- ✅ Fixed it by navigating to correct directory
